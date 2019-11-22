@@ -1,11 +1,11 @@
 # MIAGe Master 1 - TP Tests 1
 
-### NOM : VOLP
-### Prénom : Jascha
-### Groupe de TP :
+### NOM : DOE
+### Prénom : John
+### Groupe de TP : 
 - [ ] 1
-- [ ] 2
-- [x] 3
+- [x] 2
+- [ ] 3
 
 
 ### 0. Création et initialisation du projet Maven "question-score-project"
